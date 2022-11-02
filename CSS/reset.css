@@ -129,4 +129,5 @@ table {
 }
 input:focus {
   outline: none;
+  text-decoration: none;
 }
