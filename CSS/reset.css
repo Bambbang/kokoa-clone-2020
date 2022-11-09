@@ -131,3 +131,7 @@ input:focus {
   outline: none;
   text-decoration: none;
 }
+
+:root {
+  --horizontal-space: 25px;
+}
