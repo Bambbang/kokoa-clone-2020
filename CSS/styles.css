@@ -4,6 +4,7 @@
 @import "components/nav-bar.css";
 @import "components/screen-header.css";
 @import "components/chat-header.css";
+@import "components/no-mobile.css";
 /* Screens */
 @import "screen/login.css";
 @import "screen/friends.css";
